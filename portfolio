@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-UV-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=devive-width, initail-scales=1.0">
+    <title>responsive personal portfolio wedsite Design | codehal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="#"  class="logo">Portfolio</a>
+
+        <i class='bx bx-menu' id="menu-icon"></i>
+    <ul>
+        <nav class="navbar">
+        <li> <a href="#home" class="active">Home</a> </li>
+        <li> <a href="#about">About</a> </li>
+        <li> <a href="#contact">Contact</a> </li>
+        <li> <a href="#portfolio">Portfolio</a> </li>
+        <li> <a href="#gmail">Gmail</a> </li> 
+    </ul>
+        </nav>
+    </header> 
+    <section class="Home" id="home">
+        <div class="home-content">
+            <h3>Hello, It's Me</h3>
+            <h1>lester G Panahon</h1>
+            <h3>and i'm a <span> IT student </span></h3>
+            <p> and a collage student  from philippine collage of science and technology </p>
+            <div class="social-media">
+                <a href="#"><i class='bx bxl-facebook-square' ></i></a>
+                <a href="#"><i class='bx bxl-instagram' ></i></a>
+            </div>
+            <a href="#" class="btn">Download CV</a>
+        </div>
+        
+        <div class="home-img">
+            <img src="images/437210084_964391751768856_1808449343395211789_n.jpg" alt="this is me">
+        </div> 
+    </section>
+    
+        <section class="About" id="About">
+            <div class="About-img">
+                <img src="images/437210084_964391751768856_1808449343395211789_n.jpg" alt="">
+
+            </div>
+        </section><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-UV-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=devive-width, initail-scales=1.0">
+    <title>responsive personal portfolio wedsite Design | codehal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="#"  class="logo">Portfolio</a>
+
+        <i class='bx bx-menu' id="menu-icon"></i>
+    <ul>
+        <nav class="navbar">
+        <li> <a href="#home" class="active">Home</a> </li>
+        <li> <a href="#about">About</a> </li>
+        <li> <a href="#contact">Contact</a> </li>
+        <li> <a href="#portfolio">Portfolio</a> </li>
+        <li> <a href="#gmail">Gmail</a> </li> 
+    </ul>
+        </nav>
+    </header> 
+    <section class="Home" id="home">
+        <div class="home-content">
+            <h3>Hello, It's Me</h3>
+            <h1>lester G Panahon</h1>
+            <h3>and i'm a <span> IT student </span></h3>
+            <p> and a collage student  from philippine collage of science and technology </p>
+            <div class="social-media">
+                <a href="#"><i class='bx bxl-facebook-square' ></i></a>
+                <a href="#"><i class='bx bxl-instagram' ></i></a>
+            </div>
+            <a href="#" class="btn">Download CV</a>
+        </div>
+        
+        <div class="home-img">
+            <img src="images/437210084_964391751768856_1808449343395211789_n.jpg" alt="this is me">
+        </div> 
+    </section>
+    
+        <section class="About" id="About">
+            <div class="About-img">
+                <img src="images/437210084_964391751768856_1808449343395211789_n.jpg" alt="">
+
+            </div>
+        </section>
+        <div class="About-content">
+            <h2 class="heading">About<span> Me</span></h2>
+            <h3>Frontend Developer</h3>
+            <P>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Consequuntur, ipsam, odit quam illum nam expedita non iste error esse nemo atque sint corporis quaerat. 
+                 Fugiat omnis similique mollitia aliquam deleniti.</P>
+               <a href="#" class="btn"> Read more</a>
+        </div>
+
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
